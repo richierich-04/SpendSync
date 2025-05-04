@@ -24,3 +24,5 @@ git clone https://github.com/richierich-04/SpendSync.git
 cd SpendSync
 npm install
 npm start
+
+"Test commit"
